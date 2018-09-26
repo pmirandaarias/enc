@@ -27,3 +27,15 @@ output.txt
 .php_cs.cache
 coverage.xml
 /coverage
+/public/css/backend*.css
+/public/css/frontend*.css
+/public/js/backend*.js
+/public/js/frontend*.js
+/public/mix-manifest.json
+/public/mix*.js
+*___jb_old___
+*___jb_tmp___
+/storage/debugbar
+/storage/framework
+/storage/logs
+/storage/var

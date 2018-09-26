@@ -15,15 +15,15 @@
     <!-- Tab panes -->
     <div class="tab-content">
         <div class="tab-pane p-3 active" id="tab1" role="tabpanel">
-            Tab Content 1
+            Contenido de pestaña 1
         </div><!--tab 1-->
 
         <div class="tab-pane p-3" id="tab2" role="tabpanel">
-            Tab Content 2
+            Contenido de pestaña 2
         </div><!--tab 2-->
 
         <div class="tab-pane p-3" id="tab3" role="tabpanel">
-            Tab Content 3
+            Contenido de pestaña 1
         </div><!--tab 3-->
     </div><!--tab-content-->
 </aside>
